@@ -8,3 +8,15 @@ c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastF
 c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
 c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
 c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb

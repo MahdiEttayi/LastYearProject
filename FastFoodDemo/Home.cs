@@ -33,8 +33,12 @@ namespace FastFoodDemo
             SidePanel.Top = button2.Top;
             mySecondCustmControl1.BringToFront();
 
-            //Thanks for watching Friends...
-            //Please dont forget to Subscribe... :) :) :) 
+            
+        }
+
+        private void Home_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

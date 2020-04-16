@@ -30,7 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.SidePanel = new System.Windows.Forms.Panel();
+            this.SidePanel1 = new System.Windows.Forms.Panel();
             this.button7 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
@@ -61,7 +61,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(39)))), ((int)(((byte)(40)))));
-            this.panel1.Controls.Add(this.SidePanel);
+            this.panel1.Controls.Add(this.SidePanel1);
             this.panel1.Controls.Add(this.button7);
             this.panel1.Controls.Add(this.button6);
             this.panel1.Controls.Add(this.button5);
@@ -76,13 +76,13 @@
             this.panel1.Size = new System.Drawing.Size(209, 583);
             this.panel1.TabIndex = 0;
             // 
-            // SidePanel
+            // SidePanel1
             // 
-            this.SidePanel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(178)))), ((int)(((byte)(8)))), ((int)(((byte)(55)))));
-            this.SidePanel.Location = new System.Drawing.Point(1, 61);
-            this.SidePanel.Name = "SidePanel";
-            this.SidePanel.Size = new System.Drawing.Size(10, 54);
-            this.SidePanel.TabIndex = 4;
+            this.SidePanel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(178)))), ((int)(((byte)(8)))), ((int)(((byte)(55)))));
+            this.SidePanel1.Location = new System.Drawing.Point(1, 60);
+            this.SidePanel1.Name = "SidePanel1";
+            this.SidePanel1.Size = new System.Drawing.Size(10, 54);
+            this.SidePanel1.TabIndex = 4;
             // 
             // button7
             // 
@@ -164,6 +164,7 @@
             this.button3.Text = "       Collection";
             this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button14
             // 
@@ -374,7 +375,7 @@
             // 
             this.mySecondCustmControl1.Location = new System.Drawing.Point(208, 156);
             this.mySecondCustmControl1.Name = "mySecondCustmControl1";
-            this.mySecondCustmControl1.Size = new System.Drawing.Size(818, 406);
+            this.mySecondCustmControl1.Size = new System.Drawing.Size(818, 427);
             this.mySecondCustmControl1.TabIndex = 6;
             // 
             // firstCustomControl1
@@ -424,7 +425,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Panel SidePanel;
+        private System.Windows.Forms.Panel SidePanel1;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button5;

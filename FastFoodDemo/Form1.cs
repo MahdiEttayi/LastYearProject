@@ -15,32 +15,57 @@ namespace FastFoodDemo
         public Form1()
         {
             InitializeComponent();
-            SidePanel.Height = button1.Height;
-            SidePanel.Top = button1.Top;
+            SidePanel1.Height = button1.Height;
+            SidePanel1.Top = button1.Top;
             firstCustomControl1.BringToFront();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SidePanel.Height = button1.Height;
-            SidePanel.Top = button1.Top;
+            SidePanel1.Height = button1.Height;
+            SidePanel1.Top = button1.Top;
             firstCustomControl1.BringToFront();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            SidePanel.Height = button2.Height;
-            SidePanel.Top = button2.Top;
+            SidePanel1.Height = button2.Height;
+            SidePanel1.Top = button2.Top;
             mySecondCustmControl1.BringToFront();
 
-            //Thanks for watching Friends...
-            //Please dont forget to Subscribe... :) :) :) 
         }
-
+        private void button3_Click(object sender, EventArgs e)
+        {
+            SidePanel1.Height = button3.Height;
+            SidePanel1.Top = button3.Top;
+           
+        }
+        private void button4_Click(object sender, EventArgs e)
+        {
+            SidePanel1.Height = button4.Height;
+            SidePanel1.Top = button4.Top;
+           
+        }
+        private void button5_Click(object sender, EventArgs e)
+        {
+            SidePanel1.Height = button5.Height;
+            SidePanel1.Top = button5.Top;
+          
+        }
         private void button6_Click(object sender, EventArgs e)
         {
-
+            SidePanel1.Height = button6.Height;
+            SidePanel1.Top = button6.Top;
+          
         }
+        private void button7_Click(object sender, EventArgs e)
+        {
+            SidePanel1.Height = button7.Height;
+            SidePanel1.Top = button7.Top;
+           
+        }
+
+
 
         private void button13_Click(object sender, EventArgs e) { 
         {
@@ -67,5 +92,7 @@ namespace FastFoodDemo
             Process.Start("www.twitter.com");
 
         }
+
+        
     }
 }

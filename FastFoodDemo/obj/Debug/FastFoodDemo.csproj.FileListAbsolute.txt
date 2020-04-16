@@ -20,3 +20,14 @@ C:\Users\TIKABILO\Documents\GitHub\LastYearProject\FastFoodDemo\obj\Debug\FastFo
 C:\Users\TIKABILO\Documents\GitHub\LastYearProject\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
 C:\Users\TIKABILO\Documents\GitHub\LastYearProject\FastFoodDemo\obj\Debug\FastFoodDemo.exe
 C:\Users\TIKABILO\Documents\GitHub\LastYearProject\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\MahdiEttayi\Desktop\FastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb

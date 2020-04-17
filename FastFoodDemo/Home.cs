@@ -10,9 +10,9 @@ using System.Windows.Forms;
 using System.Diagnostics;
 namespace FastFoodDemo
 {
-    public partial class Form1 : Form
+    public partial class Home : Form
     {
-        public Form1()
+        public Home()
         {
             InitializeComponent();
             SidePanel1.Height = button1.Height;
@@ -93,6 +93,6 @@ namespace FastFoodDemo
 
         }
 
-        
+       
     }
 }
